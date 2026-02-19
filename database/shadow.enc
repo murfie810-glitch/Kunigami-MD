@@ -1,0 +1,8 @@
+Voici le texte visible dans l’image :
+
+import { encryptOwners } from "./utils/DigiCreator.js";
+
+await encryptOwners([
+  "24105838735",
+  "998771529519"
+]);
